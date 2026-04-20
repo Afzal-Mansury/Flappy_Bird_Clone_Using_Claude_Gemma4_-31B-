@@ -1,7 +1,7 @@
 # Flappy Bird Clone
 
 <div align="center">
-  <img src="assets/images/Bird.png" alt="Flappy Bird" width="100" height="100">
+  <img src="assets/images/Bird.png" alt="Flappy Bird" width="1000" height="500">
 </div>
 
 A recreation of the popular Flappy Bird game built with vanilla JavaScript and HTML5 Canvas.
